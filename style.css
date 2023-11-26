@@ -7,11 +7,11 @@
 
 
     nav.bg {   
-    color: white;        
+    color: rgb(247, 247, 247);        
     width:100%;
     float:left; 
     text-align:center;  
-    background-color: #324141;
+    background-color: #000000;
     padding:1.5em 0em; 
     overflow: hidden
     }
@@ -22,7 +22,7 @@
     display: inline-block;
     margin:5px 30px;
     outline: none;
-    color: #070000;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.3em;
@@ -35,7 +35,7 @@
 
     transition:0.4s;
     outline: none;
-    color:rgb(0, 0, 0); 
+    color:rgb(255, 252, 252); 
     overflow: hidden
     }
 
@@ -47,7 +47,7 @@
     left: 50%;
     width: 75px;
     height: 75px;
-    border: 2px solid rgba(255, 255, 255, 0.356);
+    border: 2px solid rgba(248, 247, 247, 0.678);
     border-radius: 50%;
     content: '';
     opacity: 0;

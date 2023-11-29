@@ -217,3 +217,21 @@ img {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  color: white;
 }
+
+.Sobre{
+  color:bisque;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+.paragrafo{
+  text-align: justify;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: medium;
+  color: #ddded2;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
